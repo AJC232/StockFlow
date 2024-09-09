@@ -62,7 +62,7 @@ This pipeline is designed to run daily, ensuring that the stock data for all Nif
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/Indian-Stocks-ETL.git
+   git clone https://github.com/AJC232/StockFlow.git
    ```
 
 2. Install the required dependencies:
